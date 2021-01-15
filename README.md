@@ -38,3 +38,14 @@ DCD-HAMS, is method meant to overcome this shortcoming. During Covid-19, it took
 
 ## Need for Above Technology:
 
+As mentioned above, prominent symptom detection during pandemics can become a powerful tool at combatting outbreaks. Prominent symptoms can allow for faster detection, easier localization as well as individual awareness in the community. However, with these analysis, comes its various issues. For example, taking the case of Covid-19 in its early stages, patients were discovered slowly by the mode of trial-and-error or their own initiative to approach healthcare centers. This was followed by governments and public bodies, setting up infrastructure for collection and aggregation of these patient data. This itself becomes a point of potential security risk, medical data however, much anonymized may still lead to large scale leakage if attacked suitably. At the same time, the amount of manual effort required to anonymize such a large corpus of continuously growing data is also a point of concern. Simultaneously,  the time and effort taken to develop such an infrastructure for analysis, may have consumed lots of valuable time. These, points are excluding all logistical, manual and computational costs which would plague such a project. 
+
+Now looking at distributed research by smaller bodies for the same, one can understand that the sample space may be considerably smaller, regionally restricted and therefore, biased. Citing one of the examples mentioned in the OpenMined course this would be similar to the "People from Western, educated, industrialized, rich and democratic (WEIRD) societies — who represent as much as 80 percent of study participants, but only 12 percent of the world’s population — are not only unrepresentative of humans as a species, but on many measures they’re outliers." Therefore, this too is not a viable solution for pandemics. Local bias may cause further confusion in the general public leading to much more disinformation. This can only be solved by making a more centralized system.
+
+The problems presented above can be summarized in the following 5 points:
+
+* Time Consumption in centralized aggregation by a single institute.
+* Data Security of clients participating in such statistics.
+* Manual and Logistical Costs for data anonymization of above data to protect client privacy.
+* Logistical, Manual and Infrastructural costs for over heading such a project.
+* Local Bias for smaller aggregators and analysers.
