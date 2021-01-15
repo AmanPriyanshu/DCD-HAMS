@@ -64,16 +64,19 @@ First and foremost a common word encoder is selected for universal implementatio
 
 
 ![Figure 1: Client Model](/images/client_model.JPG)
+
 **Figure 1**
 *Client Model Update Algorithm, for solving data imbalance.*
 
 
 
 ![Figure 2: RDFL Algorithm](/images/rdfl_algorithm.JPG)
+
 **Figure 2**
 *RDFL Algorithm, for decentralized learning.*
 
 
 ![Figure 3: Hierarchical_Aggregation](/images/hierarchical_aggregation.JPG)
+
 **Figure 3**
 *Hierarchical Aggregation Algorithm, for improving generalization.*
