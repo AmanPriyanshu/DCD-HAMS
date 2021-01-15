@@ -98,3 +98,12 @@ The above methodology, offers a faster and convenient method for symptom detecti
 ### Audience:
 
 The target audience for this project are medical institutes and government bodies, which wish to understand pandemics quicker and in a more generalized manner, while maintaing individual privacy and lower logistical costs. The implementation, done for Covid-19, is one of the existing technologies/methodlogies used, however, DCD-HAMS is able to give some significant improvements to it.
+
+## Conclusion:
+
+Decentralized Cross Device Learning for Hierarchical Aggregation of Medical Symptoms, provides an efficient methodology for prominent symptom retreival during pandemics. With prominent target audience of this being the central government, we look up to them to look after the Privacy Control/Flow Governance of individuals participating in this project. Even so, we employ differential privacy and decentralized federated learning, both which are great tools towards input and output privacy. As for input verification, a locally managed, reputation scale can be created by the base aggregating administrative bodies, which could be used to improve the pre-existing RDFL algorithm. In the end, this project offers a novel methodology for symptom retreival in a pandemic setup, while require low over-head costs and privacy of clients.
+
+### Furture Work:
+
+* Homorphic Encryptions could be included to further improve privacy.
+* Output Verification could be included in the given setup
