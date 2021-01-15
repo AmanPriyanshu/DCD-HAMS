@@ -6,4 +6,6 @@ Symptom prognosis and analysis is an important part of pandemic management, as t
 
 ## Introduction:
 
+Pandemic control and management have become highlighted issues, within the last couple of months. With the spread of the novel coronavirus, the world saw destruction of life and property. Various businesses, infrastructures, etc. were shutdown unemployment, reduced wages, and unpayed leave further ravaged livlihood, not to mention the loss of life and degradation of health caused by this pandemic. A total of 91 million people suffered from Covid-19 over the progression of 2020. However, it is still believed that if significant steps were taken at the beginning of the pandemic, the spread and massivity of Covid-19 could have been stalled or limited entirely. One direction to note, is that the symptoms of Covid-19 were discovered and brought to light after a significant time had passed, allowing first waves of the virus to spread. Limited to no actions were taken in the beginning to highlight such symptoms, until the spread had progressed to multiple countries.
 
+During a pandemic, 
