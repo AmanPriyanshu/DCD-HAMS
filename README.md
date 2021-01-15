@@ -80,3 +80,21 @@ First and foremost a common word encoder is selected for universal implementatio
 
 **Figure 3**
 *Hierarchical Aggregation Algorithm, for improving generalization.*
+
+## Goals:
+
+1. Input and Output Privacy: Federated Learning and Differential Privacy, give assurance to clients for the privacy of their data. Epsilon or privacy loss, is also introduced as a metric for further restriction and control of the individuals participating. Although homomorphic encryptions hasn't been employed to due to its high computational requirements, future updates may involve them up to certain degrees.
+
+2. Flow Governance: The epsilon values can also be used for flow governance by an administrating body such as the local or central government of the region. Thereby, allowing for easier transaction of data without ever leaking too much privacy of an individual.
+
+3. Decentralized Learning using RDFL, reduces risks posed by adversarial participants, as well as reduces overall logistical costs.
+
+4. Manual costs for anonymization and/or preprocessing is completely cut down.
+
+5. The general public can be included for the purposes of training, allowing generalization. 
+
+The above methodology, offers a faster and convenient method for symptom detection. It is easier to implement and offer great support privacy conservation while providing the desired results. From the 5 problems we discussed above, it is able to solve each of them, thereby giving us an appropriate means of symptom collection.
+
+### Audience:
+
+The target audience for this project are medical institutes and government bodies, which wish to understand pandemics quicker and in a more generalized manner, while maintaing individual privacy and lower logistical costs. The implementation, done for Covid-19, is one of the existing technologies/methodlogies used, however, DCD-HAMS is able to give some significant improvements to it.
