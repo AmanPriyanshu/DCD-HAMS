@@ -76,7 +76,7 @@ First and foremost a common word encoder is selected for universal implementatio
 *RDFL Algorithm, for decentralized learning.*
 
 
-![Figure 3: Hierarchical_Aggregation](/images/hierarchical_aggregation.JPG)
+![Figure 3: Hierarchical_Aggregation](/images/hierarchical_aggregation.JPEG)
 
 **Figure 3**
 *Hierarchical Aggregation Algorithm, for improving generalization.*
