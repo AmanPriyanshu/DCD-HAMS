@@ -62,4 +62,18 @@ Federated Learning is employed in a Cross-Device decentralized system, as we wis
 
 First and foremost a common word encoder is selected for universal implementation, a lightweight classifier is designed keeping in mind the encoder selected. This allows us to make a learnable model, while at the same time keeping computational costs low. The selected encoder and model architecture is then declared for client-wise training and aggregation. However, by only allowing training on client-symptoms, the model will receive an all positive learning dataset, making the classifier largely biased. That is, there will be a 100% positive sample space, we use random sampling of words from a given medical corpus, which are then learnt as negative samples by client-models. The algorithm is presented Figure 1-3.
 
+
 ![Figure 1: Client Model](/images/client_model.JPG)
+**Figure 1**
+*Client Model Update Algorithm, for solving data imbalance.*
+
+
+
+![Figure 2: RDFL Algorithm](/images/rdfl_algorithm.JPG)
+**Figure 2**
+*RDFL Algorithm, for decentralized learning.*
+
+
+![Figure 3: Hierarchical_Aggregation](/images/hierarchical_aggregation.JPG)
+**Figure 3**
+*Hierarchical Aggregation Algorithm, for improving generalization.*
