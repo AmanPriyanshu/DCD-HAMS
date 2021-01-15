@@ -1,2 +1,3 @@
-# DCD-HAMS
-Decentralized Cross Device Learning for Hierarchical Aggregation of Medical Symptoms
+# DCD-HAMS: Decentralized Cross Device Learning for Hierarchical Aggregation of Medical Symptoms
+
+Medical analysis has become an integral part of modern society. With the advent of modern transport and better locomotive capacity, the world was introduced to never before seen methods of travel, however, with it came the risk of faster and widespread spread of disease, such as in the case of pandemics. Even outside of the global scale, smaller epidemics which are not studied and countered quickly cause massive damages to community health and progress. It becomes important to study the initial symptoms of such diseases and develop a better understanding of the disease itself. 
